@@ -8,9 +8,7 @@ venv/
 # Streamlit
 .streamlit/secrets.toml
 
-# Large data/index files (optional, but recommended if large)
-vectorstore/db_faiss/index.faiss
-vectorstore/db_faiss/index.pkl
+# Large data/index files included as requested
 
 # OS
 .DS_Store
