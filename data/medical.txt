@@ -1,0 +1,7 @@
+MEDICAL INFORMATION FILE
+------------------------
+- Fasting blood sugar normal range: 70 to 99 mg/dL.
+- Normal blood pressure is usually around 120/80 mmHg.
+- A healthy BMI for most adults is between 18.5 and 24.9.
+- Staying hydrated requires drinking at least 8 glasses of water a day.
+- Regular exercise for at least 30 minutes a day can improve heart health.

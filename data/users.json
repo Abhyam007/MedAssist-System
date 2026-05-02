@@ -1,0 +1,12 @@
+{
+  "test": {
+    "password": "$2b$12$LZ2ybIVoioohSHNQY74NeeUIuxVUpdfyLHIjTrSbTKhaB8wbGImjS",
+    "email": "test@gmail.com",
+    "family_members": {}
+  },
+  "testuser": {
+    "password": "$2b$12$bqY02EHjoJurIX90JWFQJe7UCLOfSVgQ8lcWznTkAAHhHouQcgO5C",
+    "email": "test@gmail.com",
+    "family_members": {}
+  }
+}
